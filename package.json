@@ -1,6 +1,6 @@
 {
   "name": "@hayatonjp/light-utils-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -19,5 +19,12 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayatonjp/light-utils-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hayatonjp/light-utils-ts/issues"
+  }
 }
